@@ -1,0 +1,21 @@
+.main {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./assets/Background.jpg');
+    background-size: cover;
+    display: flex;
+    z-index: -1;
+}
+
+.main > div {
+
+}
+
+.logo {
+    width: 150px;
+    height: 110px;
+    margin: 25px 0 0 50px;
+    /* width: 20em;
+    height: 5em; */
+
+}
